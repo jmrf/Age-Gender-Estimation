@@ -1,4 +1,4 @@
-numpy==1.13.0
+numpy==1.21.0
 scikit_image==0.13.1
 caffe2==0.8.1
 skimage==0.0
